@@ -1,11 +1,12 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
   "metadata": {
-    "type": "Lakehouse",
-    "displayName": "Earthquake_Data"
+    "type": "Notebook",
+    "displayName": "Silver Notebook",
+    "description": "New notebook"
   },
   "config": {
     "version": "2.0",
-    "logicalId": "e4ee651e-f168-459a-ac27-e4d6434cde8c"
+    "logicalId": "b1843b63-cc7e-4af0-823b-4a636c2b176a"
   }
 }

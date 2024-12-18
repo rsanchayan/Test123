@@ -18,7 +18,7 @@
 # META       ]
 # META     },
 # META     "environment": {
-# META       "environmentId": "8918944b-e5a3-420d-9f38-83969e341bdb",
+# META       "environmentId": "15ee0222-675e-458e-97cc-cf67b175cc01",
 # META       "workspaceId": "00000000-0000-0000-0000-000000000000"
 # META     }
 # META   }
@@ -159,6 +159,16 @@ df_with_location_sig_class = \
 # CELL ********************
 
 df_with_location_sig_class.write.mode('append').saveAsTable("earthquake_events_gold")
+
+# METADATA ********************
+
+# META {
+# META   "language": "python",
+# META   "language_group": "synapse_pyspark"
+# META }
+
+# CELL ********************
+
 
 # METADATA ********************
 
